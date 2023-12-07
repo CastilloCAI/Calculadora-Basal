@@ -1,0 +1,36 @@
+* {
+    @import url('https://fonts.googleapis.com/css2? family= Montserrat:wght@800 & display=swap');
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  p {
+    margin: 0;
+  }
+  
+  .container{
+    background-color: #f1f1f1;
+    width: 100vw;
+    display: flex;
+    text-align: center;
+  }
+  
+  .nro1{
+    align-items: center;  
+    background-color: aqua;
+    display: flex;
+    flex: 1;  
+    height: 20vw;
+    
+  }
+  
+  .nro2{
+      align-items: center;
+      background-color: aquamarine;
+      display: flex;
+      justify-content: center;
+      flex: 1;
+      height: 20vw;
+   
+  }
